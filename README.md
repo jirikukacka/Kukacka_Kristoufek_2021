@@ -2,7 +2,7 @@
 
 ---
 
-Kukacka, J., Kristoufek, L. (2021), Does parameterization affect the complexity of agent-based models?, SSRN Working Paper, [DOI](https://dx.doi.org/10.2139/ssrn.3654362), version July 30, 2021.
+Kukacka, J., Kristoufek, L. (2021), Does parameterization affect the complexity of agent-based models?, Journal of Economic Behavior & Organization, [DOI](https://doi.org/10.1016/j.jebo.2021.10.007).
 
 This codebase is using the R language, and it is initialized as a Git.
 
