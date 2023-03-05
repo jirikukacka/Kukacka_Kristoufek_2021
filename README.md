@@ -2,7 +2,7 @@
 
 ---
 
-Kukacka, J., Kristoufek, L. (2021), Does parameterization affect the complexity of agent-based models?, Journal of Economic Behavior & Organization, [DOI](https://doi.org/10.1016/j.jebo.2021.10.007).
+Kukacka, J., Kristoufek, L. (2021), Does parameterization affect the complexity of agent-based models?, Journal of Economic Behavior & Organization, 192, pp. 324-356, [DOI](https://doi.org/10.1016/j.jebo.2021.10.007).
 
 This codebase is using the R language, and it is initialized as a Git.
 
